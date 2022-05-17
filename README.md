@@ -17,6 +17,8 @@
 - HTML
 - Javascript
 - React
+- React router
+- Next
 
 ---
 
@@ -32,6 +34,10 @@ git clone https://github.com/ecpieritz/dogs-app.git
 - `npm install`
 - `npm start` to run locally
 - open http://localhost:3000/ 
+
+#### Login inside the app
+- User: dog
+- Password: dog
 
 ---
 <p align = "right">Developed with :blue_heart: by Emilyn C. Pieritz</p>
