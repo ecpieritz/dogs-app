@@ -2,9 +2,9 @@
 
 ## 🖥 Preview
 <p align = "center">
-  <img src = "https://github.com/ecpieritz/ccc" width = "702" height = "auto">
-  <img src = "https://github.com/ecpieritz/ccc" width = "351" height = "auto">
-  <img src = "https://github.com/ecpieritz/ccc" width = "351" height = "auto">
+  <img src = "https://github.com/ecpieritz/dogs-app/blob/main/public/print-01.jpg?raw=true" width = "702" height = "auto">
+  <img src = "https://github.com/ecpieritz/dogs-app/blob/main/public/print-02.jpg?raw=true" width = "351" height = "auto">
+  <img src = "https://github.com/ecpieritz/dogs-app/blob/main/public/print-03.jpg?raw=true" width = "351" height = "auto">
 </p>
 
 ## 📖 About
@@ -18,7 +18,6 @@
 - Javascript
 - React
 - React router
-- Next
 
 ---
 
